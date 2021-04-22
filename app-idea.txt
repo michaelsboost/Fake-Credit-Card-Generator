@@ -1,0 +1,63 @@
+Name: Fake Credit Card Generator
+Description: A simple app that generates a fake credit card. A great app to waste a scammer's time.
+Generation: Visa, Mastercard, American Express, Discover
+Resources: Normalize
+IDE: https://replit.com/
+License: MIT
+Font: Sans-Serif
+
+----------------------------------------------------------
+
+WHICH CARD NETWORK IS MOST POPULAR? (A: Visa - thus generate onload)
+----------------------------------------------------------
+
+Visa boasts the largest market share with 48.8% of the market, acceptance in more than 200 countries, and 8 million merchants in the U.S. that accept it. MasterCard is the second-most popular card network with 31.3% of the market share, acceptance in more than 210 countries, and 8 million U.S. merchants. While American Express is more widely accepted internationally, Discover has a higher U.S. acceptance rate with 7 million merchants and 10.7% of the market share.
+Source: https://www.creditcardprocessing.com/resource/article/how-popular-is-discover-card-vs-visa-and-mastercard/
+
+----------------------------------------------------------
+
+OTHER:
+Incorporate Expiration Date and Security Code(s)
+Date card expires is 2 years from current date
+
+Real Generator Reference: https://www.getcreditcardnumbers.com/
+
+HOW MANY DIGITS ARE IN A CREDIT CARD NUMBER?
+----------------------------------------------------------
+
+Card length:
+Visa: 16
+Mastercard: 16
+Discover: 16
+American Express: 15
+Source: https://www.validcreditcardnumber.com/
+
+----------------------------------------------------------
+
+WHAT DO VISA/DISCOVER/ETC CARDS START WITH?
+----------------------------------------------------------
+
+Visa credit card numbers start with the number 4. Each credit card has a unique string of numbers, but the first one or two digits can help you identify the payment network.
+
+A Discover card's first digit is the number 6, Mastercard’s is 5, and American Express card numbers start with 3.
+
+When combined with the first digit, the next 5 digits of a credit card number identify the card issuer for any given Visa. The subsequent 8 numbers are part of your account number. These numbers make the card unique to the cardholder. Finally, the last digit is a security measure. It helps verify that the other numbers aren’t entered incorrectly. In total, Visa cards have 16 digits spaced into groups of 4.
+Source: https://wallethub.com/answers/cc/what-do-visa-cards-start-with-2140669112/
+
+----------------------------------------------------------
+
+SECURITY CODES:
+----------------------------------------------------------
+
+Visa security code
+Visa security codes are three digits long and are printed on the back of your Visa credit card at the end of the signature panel. Keep in mind that your Visa credit card could come from a credit card issuer like Chase or Bank of America, among others.
+
+Mastercard security code
+Mastercard also comes with a three-digit security code, which is listed at the end of the signature panel on the back of your Mastercard credit card. Note that an array of credit cards run on the Mastercard network, including options from Citi and Barclays.
+
+American Express security code
+American Express, which is both a card issuer and a card network, does security codes differently to other cards. Security codes from American Express credit cards are four digits long and are printed on the front of your card right above your card number (and to the right).
+
+Discover security code
+Discover credit cards also come with three-digit security codes, which are listed on the back of your card at the end of the signature panel. Also, note that Discover is both the card network and the issuer of Discover credit cards.
+Source: https://www.msn.com/en-us/money/personalfinance/what-is-a-credit-card-security-code/ar-BB1a5PD8

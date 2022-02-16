@@ -30,7 +30,7 @@ Fake Credit Card Generator uses a small number of open source projects to work p
 Development
 -------------
 
-Want to know how I developed this application? You can [checkout the course here](https://github.com/michaelsboost/Fake-Credit-Card-Generator) where I show you how I designed and developed this application from start to finish.
+Want to know how I developed this application? You can [checkout the course here](https://www.udemy.com/course/fake-credit-card-generator/) where I show you how I designed and developed this application from start to finish.
 
 Want to contribute? Great!  
 

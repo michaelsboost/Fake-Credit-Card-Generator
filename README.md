@@ -25,7 +25,7 @@ Fake Credit Card Generator uses a small number of open source projects to work p
 
 * [Normalize](https://github.com/necolas/normalize.css) - CSS reset library
 * [Font Awesome](https://fontawesome.com/) - Font Awesome, the web's most popular icon set and toolkit
-* [Infinite WHiteboard/Blackboard](https://michaelsboost.com/InfiniteCanvasWhiteboard/) - Sketched project using the InfiniteCanvasWhiteboard
+* [Infinite Whiteboard/Blackboard](https://michaelsboost.com/InfiniteCanvasWhiteboard/) - Sketched project using the InfiniteCanvasWhiteboard
 
 Development
 -------------
